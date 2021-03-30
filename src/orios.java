@@ -5,5 +5,6 @@ public class orios {
         int z = 457;
         int w = 222;
         int t = 12345;
+        int f = 100;
     }
 }
