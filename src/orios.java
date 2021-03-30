@@ -6,5 +6,6 @@ public class orios {
         int w = 222;
         int t = 12345;
         int f = 100;
+        System.out.println("Hello Morios");
     }
 }
