@@ -6,5 +6,6 @@ public class orios {
         int w = 222;
         int t = 12345;
         int f = 100;
+        boolean h = "I like big butts and i can not lie"
     }
 }
